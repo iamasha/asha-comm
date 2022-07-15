@@ -29,6 +29,7 @@
     }
     .custom-product{
         height: 600px;
+        margin: 20px;
     }
     .slider-text{
         background-color: #1f3b1f49 !important;
@@ -53,6 +54,9 @@
     }
     .btn{
         margin-top: 20px;
+    }
+    .panel{
+        margin-top: 70px;
     }
 </style>
 </html>
